@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1c20e0f-5226-440e-8181-e5ae27e606be",
+  "path": "open-code-review-delegate",
+  "path_key": "open-code-review-delegate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alibaba/open-code-review/open-code-review-delegate",
+    "subpath": "skills\\open-code-review-delegate",
+    "branch": null
+  }
+}
