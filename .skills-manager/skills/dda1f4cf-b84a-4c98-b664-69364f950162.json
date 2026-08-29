@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dda1f4cf-b84a-4c98-b664-69364f950162",
+  "path": "research",
+  "path_key": "research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills.git",
+    "subpath": "skills\\engineering\\research",
+    "branch": null
+  }
+}

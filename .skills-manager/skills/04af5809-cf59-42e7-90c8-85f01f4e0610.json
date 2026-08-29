@@ -6,8 +6,8 @@
   "enabled": true,
   "tags": [],
   "source": {
-    "type": "skillssh",
-    "ref": "mattpocock/skills/grill-me",
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills.git",
     "subpath": "skills\\productivity\\grill-me",
     "branch": null
   }
