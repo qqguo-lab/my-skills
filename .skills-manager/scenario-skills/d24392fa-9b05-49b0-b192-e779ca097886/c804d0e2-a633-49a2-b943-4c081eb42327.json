@@ -5,6 +5,8 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
-    "github_copilot": true
+    "github_copilot": true,
+    "omp_agent": true,
+    "pi": true
   }
 }
